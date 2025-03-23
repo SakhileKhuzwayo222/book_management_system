@@ -1,4 +1,4 @@
-Sure! Here's the updated **README.md** based on the new context, combining the features of **LibriNote** with the **Book Management System** while keeping the name **Book Management System**:
+
 
 ---
 
