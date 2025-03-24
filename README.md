@@ -2,7 +2,7 @@
 
 ---
 
-# Book Management System
+# Book & Notes Management System
 
 ## Overview
 
