@@ -165,10 +165,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions, feel free to reach out to me via GitHub or email me at [your-email@example.com].
+If you have any questions, feel free to reach out to me via GitHub or email me at Sakhilekhuzwayo454@gmail.com.
 
 ---
-
-### Notes:
-- **Replace `yourusername`** and **`your-email@example.com`** with your actual GitHub username and email.
-- **Replace database details** like `spring.datasource.url` with the actual database you use (MySQL or other).
